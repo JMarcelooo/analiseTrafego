@@ -1,0 +1,421 @@
+Data,Hora,Ponto de Contagem,Número de Veículos
+2025-05-01,06:00,Avenida João da Escóssia,25
+2025-05-01,07:00,Avenida João da Escóssia,122
+2025-05-01,08:00,Avenida João da Escóssia,117
+2025-05-01,09:00,Avenida João da Escóssia,85
+2025-05-01,10:00,Avenida João da Escóssia,17
+2025-05-01,11:00,Avenida João da Escóssia,19
+2025-05-01,12:00,Avenida João da Escóssia,21
+2025-05-01,13:00,Avenida João da Escóssia,20
+2025-05-01,14:00,Avenida João da Escóssia,23
+2025-05-01,15:00,Avenida João da Escóssia,16
+2025-05-01,16:00,Avenida João da Escóssia,19
+2025-05-01,17:00,Avenida João da Escóssia,115
+2025-05-01,18:00,Avenida João da Escóssia,98
+2025-05-01,19:00,Avenida João da Escóssia,95
+2025-05-01,20:00,Avenida João da Escóssia,20
+2025-05-01,06:00,BR-304,20
+2025-05-01,07:00,BR-304,85
+2025-05-01,08:00,BR-304,104
+2025-05-01,09:00,BR-304,96
+2025-05-01,10:00,BR-304,23
+2025-05-01,11:00,BR-304,22
+2025-05-01,12:00,BR-304,17
+2025-05-01,13:00,BR-304,19
+2025-05-01,14:00,BR-304,20
+2025-05-01,15:00,BR-304,21
+2025-05-01,16:00,BR-304,19
+2025-05-01,17:00,BR-304,80
+2025-05-01,18:00,BR-304,95
+2025-05-01,19:00,BR-304,101
+2025-05-01,20:00,BR-304,22
+2025-05-01,06:00,Centro,21
+2025-05-01,07:00,Centro,104
+2025-05-01,08:00,Centro,88
+2025-05-01,09:00,Centro,89
+2025-05-01,10:00,Centro,19
+2025-05-01,11:00,Centro,21
+2025-05-01,12:00,Centro,20
+2025-05-01,13:00,Centro,20
+2025-05-01,14:00,Centro,22
+2025-05-01,15:00,Centro,24
+2025-05-01,16:00,Centro,16
+2025-05-01,17:00,Centro,118
+2025-05-01,18:00,Centro,96
+2025-05-01,19:00,Centro,101
+2025-05-01,20:00,Centro,18
+2025-05-01,06:00,Avenida Presidente Dutra,21
+2025-05-01,07:00,Avenida Presidente Dutra,94
+2025-05-01,08:00,Avenida Presidente Dutra,103
+2025-05-01,09:00,Avenida Presidente Dutra,103
+2025-05-01,10:00,Avenida Presidente Dutra,16
+2025-05-01,11:00,Avenida Presidente Dutra,21
+2025-05-01,12:00,Avenida Presidente Dutra,20
+2025-05-01,13:00,Avenida Presidente Dutra,15
+2025-05-01,14:00,Avenida Presidente Dutra,16
+2025-05-01,15:00,Avenida Presidente Dutra,20
+2025-05-01,16:00,Avenida Presidente Dutra,19
+2025-05-01,17:00,Avenida Presidente Dutra,102
+2025-05-01,18:00,Avenida Presidente Dutra,99
+2025-05-01,19:00,Avenida Presidente Dutra,102
+2025-05-01,20:00,Avenida Presidente Dutra,20
+2025-05-02,06:00,Avenida João da Escóssia,17
+2025-05-02,07:00,Avenida João da Escóssia,93
+2025-05-02,08:00,Avenida João da Escóssia,108
+2025-05-02,09:00,Avenida João da Escóssia,91
+2025-05-02,10:00,Avenida João da Escóssia,16
+2025-05-02,11:00,Avenida João da Escóssia,20
+2025-05-02,12:00,Avenida João da Escóssia,22
+2025-05-02,13:00,Avenida João da Escóssia,19
+2025-05-02,14:00,Avenida João da Escóssia,19
+2025-05-02,15:00,Avenida João da Escóssia,20
+2025-05-02,16:00,Avenida João da Escóssia,22
+2025-05-02,17:00,Avenida João da Escóssia,99
+2025-05-02,18:00,Avenida João da Escóssia,97
+2025-05-02,19:00,Avenida João da Escóssia,115
+2025-05-02,20:00,Avenida João da Escóssia,19
+2025-05-02,06:00,BR-304,20
+2025-05-02,07:00,BR-304,110
+2025-05-02,08:00,BR-304,107
+2025-05-02,09:00,BR-304,96
+2025-05-02,10:00,BR-304,18
+2025-05-02,11:00,BR-304,20
+2025-05-02,12:00,BR-304,22
+2025-05-02,13:00,BR-304,21
+2025-05-02,14:00,BR-304,20
+2025-05-02,15:00,BR-304,20
+2025-05-02,16:00,BR-304,22
+2025-05-02,17:00,BR-304,109
+2025-05-02,18:00,BR-304,85
+2025-05-02,19:00,BR-304,103
+2025-05-02,20:00,BR-304,22
+2025-05-02,06:00,Centro,21
+2025-05-02,07:00,Centro,103
+2025-05-02,08:00,Centro,99
+2025-05-02,09:00,Centro,93
+2025-05-02,10:00,Centro,21
+2025-05-02,11:00,Centro,19
+2025-05-02,12:00,Centro,21
+2025-05-02,13:00,Centro,21
+2025-05-02,14:00,Centro,17
+2025-05-02,15:00,Centro,19
+2025-05-02,16:00,Centro,23
+2025-05-02,17:00,Centro,100
+2025-05-02,18:00,Centro,99
+2025-05-02,19:00,Centro,104
+2025-05-02,20:00,Centro,22
+2025-05-02,06:00,Avenida Presidente Dutra,21
+2025-05-02,07:00,Avenida Presidente Dutra,110
+2025-05-02,08:00,Avenida Presidente Dutra,94
+2025-05-02,09:00,Avenida Presidente Dutra,100
+2025-05-02,10:00,Avenida Presidente Dutra,17
+2025-05-02,11:00,Avenida Presidente Dutra,20
+2025-05-02,12:00,Avenida Presidente Dutra,21
+2025-05-02,13:00,Avenida Presidente Dutra,17
+2025-05-02,14:00,Avenida Presidente Dutra,20
+2025-05-02,15:00,Avenida Presidente Dutra,19
+2025-05-02,16:00,Avenida Presidente Dutra,23
+2025-05-02,17:00,Avenida Presidente Dutra,90
+2025-05-02,18:00,Avenida Presidente Dutra,107
+2025-05-02,19:00,Avenida Presidente Dutra,100
+2025-05-02,20:00,Avenida Presidente Dutra,17
+2025-05-03,06:00,Avenida João da Escóssia,9
+2025-05-03,07:00,Avenida João da Escóssia,47
+2025-05-03,08:00,Avenida João da Escóssia,63
+2025-05-03,09:00,Avenida João da Escóssia,46
+2025-05-03,10:00,Avenida João da Escóssia,9
+2025-05-03,11:00,Avenida João da Escóssia,9
+2025-05-03,12:00,Avenida João da Escóssia,9
+2025-05-03,13:00,Avenida João da Escóssia,10
+2025-05-03,14:00,Avenida João da Escóssia,9
+2025-05-03,15:00,Avenida João da Escóssia,10
+2025-05-03,16:00,Avenida João da Escóssia,11
+2025-05-03,17:00,Avenida João da Escóssia,55
+2025-05-03,18:00,Avenida João da Escóssia,48
+2025-05-03,19:00,Avenida João da Escóssia,49
+2025-05-03,20:00,Avenida João da Escóssia,10
+2025-05-03,06:00,BR-304,9
+2025-05-03,07:00,BR-304,52
+2025-05-03,08:00,BR-304,49
+2025-05-03,09:00,BR-304,49
+2025-05-03,10:00,BR-304,10
+2025-05-03,11:00,BR-304,10
+2025-05-03,12:00,BR-304,10
+2025-05-03,13:00,BR-304,11
+2025-05-03,14:00,BR-304,9
+2025-05-03,15:00,BR-304,10
+2025-05-03,16:00,BR-304,10
+2025-05-03,17:00,BR-304,42
+2025-05-03,18:00,BR-304,47
+2025-05-03,19:00,BR-304,51
+2025-05-03,20:00,BR-304,10
+2025-05-03,06:00,Centro,10
+2025-05-03,07:00,Centro,44
+2025-05-03,08:00,Centro,43
+2025-05-03,09:00,Centro,58
+2025-05-03,10:00,Centro,10
+2025-05-03,11:00,Centro,9
+2025-05-03,12:00,Centro,11
+2025-05-03,13:00,Centro,12
+2025-05-03,14:00,Centro,9
+2025-05-03,15:00,Centro,9
+2025-05-03,16:00,Centro,9
+2025-05-03,17:00,Centro,54
+2025-05-03,18:00,Centro,50
+2025-05-03,19:00,Centro,43
+2025-05-03,20:00,Centro,10
+2025-05-03,06:00,Avenida Presidente Dutra,8
+2025-05-03,07:00,Avenida Presidente Dutra,54
+2025-05-03,08:00,Avenida Presidente Dutra,60
+2025-05-03,09:00,Avenida Presidente Dutra,48
+2025-05-03,10:00,Avenida Presidente Dutra,10
+2025-05-03,11:00,Avenida Presidente Dutra,10
+2025-05-03,12:00,Avenida Presidente Dutra,11
+2025-05-03,13:00,Avenida Presidente Dutra,10
+2025-05-03,14:00,Avenida Presidente Dutra,11
+2025-05-03,15:00,Avenida Presidente Dutra,11
+2025-05-03,16:00,Avenida Presidente Dutra,8
+2025-05-03,17:00,Avenida Presidente Dutra,48
+2025-05-03,18:00,Avenida Presidente Dutra,48
+2025-05-03,19:00,Avenida Presidente Dutra,47
+2025-05-03,20:00,Avenida Presidente Dutra,10
+2025-05-04,06:00,Avenida João da Escóssia,6
+2025-05-04,07:00,Avenida João da Escóssia,46
+2025-05-04,08:00,Avenida João da Escóssia,45
+2025-05-04,09:00,Avenida João da Escóssia,52
+2025-05-04,10:00,Avenida João da Escóssia,11
+2025-05-04,11:00,Avenida João da Escóssia,8
+2025-05-04,12:00,Avenida João da Escóssia,10
+2025-05-04,13:00,Avenida João da Escóssia,10
+2025-05-04,14:00,Avenida João da Escóssia,8
+2025-05-04,15:00,Avenida João da Escóssia,9
+2025-05-04,16:00,Avenida João da Escóssia,8
+2025-05-04,17:00,Avenida João da Escóssia,42
+2025-05-04,18:00,Avenida João da Escóssia,51
+2025-05-04,19:00,Avenida João da Escóssia,50
+2025-05-04,20:00,Avenida João da Escóssia,8
+2025-05-04,06:00,BR-304,9
+2025-05-04,07:00,BR-304,52
+2025-05-04,08:00,BR-304,54
+2025-05-04,09:00,BR-304,46
+2025-05-04,10:00,BR-304,9
+2025-05-04,11:00,BR-304,8
+2025-05-04,12:00,BR-304,9
+2025-05-04,13:00,BR-304,8
+2025-05-04,14:00,BR-304,10
+2025-05-04,15:00,BR-304,9
+2025-05-04,16:00,BR-304,10
+2025-05-04,17:00,BR-304,58
+2025-05-04,18:00,BR-304,50
+2025-05-04,19:00,BR-304,56
+2025-05-04,20:00,BR-304,8
+2025-05-04,06:00,Centro,8
+2025-05-04,07:00,Centro,51
+2025-05-04,08:00,Centro,48
+2025-05-04,09:00,Centro,45
+2025-05-04,10:00,Centro,8
+2025-05-04,11:00,Centro,10
+2025-05-04,12:00,Centro,9
+2025-05-04,13:00,Centro,9
+2025-05-04,14:00,Centro,10
+2025-05-04,15:00,Centro,9
+2025-05-04,16:00,Centro,10
+2025-05-04,17:00,Centro,48
+2025-05-04,18:00,Centro,50
+2025-05-04,19:00,Centro,48
+2025-05-04,20:00,Centro,10
+2025-05-04,06:00,Avenida Presidente Dutra,9
+2025-05-04,07:00,Avenida Presidente Dutra,42
+2025-05-04,08:00,Avenida Presidente Dutra,49
+2025-05-04,09:00,Avenida Presidente Dutra,42
+2025-05-04,10:00,Avenida Presidente Dutra,9
+2025-05-04,11:00,Avenida Presidente Dutra,10
+2025-05-04,12:00,Avenida Presidente Dutra,10
+2025-05-04,13:00,Avenida Presidente Dutra,8
+2025-05-04,14:00,Avenida Presidente Dutra,9
+2025-05-04,15:00,Avenida Presidente Dutra,12
+2025-05-04,16:00,Avenida Presidente Dutra,9
+2025-05-04,17:00,Avenida Presidente Dutra,51
+2025-05-04,18:00,Avenida Presidente Dutra,48
+2025-05-04,19:00,Avenida Presidente Dutra,54
+2025-05-04,20:00,Avenida Presidente Dutra,8
+2025-05-05,06:00,Avenida João da Escóssia,20
+2025-05-05,07:00,Avenida João da Escóssia,93
+2025-05-05,08:00,Avenida João da Escóssia,96
+2025-05-05,09:00,Avenida João da Escóssia,83
+2025-05-05,10:00,Avenida João da Escóssia,19
+2025-05-05,11:00,Avenida João da Escóssia,15
+2025-05-05,12:00,Avenida João da Escóssia,18
+2025-05-05,13:00,Avenida João da Escóssia,21
+2025-05-05,14:00,Avenida João da Escóssia,20
+2025-05-05,15:00,Avenida João da Escóssia,22
+2025-05-05,16:00,Avenida João da Escóssia,20
+2025-05-05,17:00,Avenida João da Escóssia,106
+2025-05-05,18:00,Avenida João da Escóssia,111
+2025-05-05,19:00,Avenida João da Escóssia,88
+2025-05-05,20:00,Avenida João da Escóssia,19
+2025-05-05,06:00,BR-304,21
+2025-05-05,07:00,BR-304,97
+2025-05-05,08:00,BR-304,91
+2025-05-05,09:00,BR-304,96
+2025-05-05,10:00,BR-304,20
+2025-05-05,11:00,BR-304,18
+2025-05-05,12:00,BR-304,20
+2025-05-05,13:00,BR-304,20
+2025-05-05,14:00,BR-304,20
+2025-05-05,15:00,BR-304,17
+2025-05-05,16:00,BR-304,17
+2025-05-05,17:00,BR-304,108
+2025-05-05,18:00,BR-304,87
+2025-05-05,19:00,BR-304,75
+2025-05-05,20:00,BR-304,19
+2025-05-05,06:00,Centro,19
+2025-05-05,07:00,Centro,94
+2025-05-05,08:00,Centro,95
+2025-05-05,09:00,Centro,119
+2025-05-05,10:00,Centro,21
+2025-05-05,11:00,Centro,21
+2025-05-05,12:00,Centro,22
+2025-05-05,13:00,Centro,19
+2025-05-05,14:00,Centro,19
+2025-05-05,15:00,Centro,16
+2025-05-05,16:00,Centro,22
+2025-05-05,17:00,Centro,119
+2025-05-05,18:00,Centro,89
+2025-05-05,19:00,Centro,96
+2025-05-05,20:00,Centro,17
+2025-05-05,06:00,Avenida Presidente Dutra,18
+2025-05-05,07:00,Avenida Presidente Dutra,93
+2025-05-05,08:00,Avenida Presidente Dutra,101
+2025-05-05,09:00,Avenida Presidente Dutra,115
+2025-05-05,10:00,Avenida Presidente Dutra,22
+2025-05-05,11:00,Avenida Presidente Dutra,19
+2025-05-05,12:00,Avenida Presidente Dutra,21
+2025-05-05,13:00,Avenida Presidente Dutra,18
+2025-05-05,14:00,Avenida Presidente Dutra,19
+2025-05-05,15:00,Avenida Presidente Dutra,19
+2025-05-05,16:00,Avenida Presidente Dutra,17
+2025-05-05,17:00,Avenida Presidente Dutra,103
+2025-05-05,18:00,Avenida Presidente Dutra,108
+2025-05-05,19:00,Avenida Presidente Dutra,99
+2025-05-05,20:00,Avenida Presidente Dutra,20
+2025-05-06,06:00,Avenida João da Escóssia,18
+2025-05-06,07:00,Avenida João da Escóssia,98
+2025-05-06,08:00,Avenida João da Escóssia,112
+2025-05-06,09:00,Avenida João da Escóssia,100
+2025-05-06,10:00,Avenida João da Escóssia,21
+2025-05-06,11:00,Avenida João da Escóssia,22
+2025-05-06,12:00,Avenida João da Escóssia,21
+2025-05-06,13:00,Avenida João da Escóssia,18
+2025-05-06,14:00,Avenida João da Escóssia,18
+2025-05-06,15:00,Avenida João da Escóssia,22
+2025-05-06,16:00,Avenida João da Escóssia,17
+2025-05-06,17:00,Avenida João da Escóssia,102
+2025-05-06,18:00,Avenida João da Escóssia,101
+2025-05-06,19:00,Avenida João da Escóssia,93
+2025-05-06,20:00,Avenida João da Escóssia,19
+2025-05-06,06:00,BR-304,19
+2025-05-06,07:00,BR-304,108
+2025-05-06,08:00,BR-304,110
+2025-05-06,09:00,BR-304,105
+2025-05-06,10:00,BR-304,20
+2025-05-06,11:00,BR-304,17
+2025-05-06,12:00,BR-304,22
+2025-05-06,13:00,BR-304,23
+2025-05-06,14:00,BR-304,19
+2025-05-06,15:00,BR-304,19
+2025-05-06,16:00,BR-304,18
+2025-05-06,17:00,BR-304,93
+2025-05-06,18:00,BR-304,97
+2025-05-06,19:00,BR-304,107
+2025-05-06,20:00,BR-304,20
+2025-05-06,06:00,Centro,17
+2025-05-06,07:00,Centro,100
+2025-05-06,08:00,Centro,99
+2025-05-06,09:00,Centro,85
+2025-05-06,10:00,Centro,22
+2025-05-06,11:00,Centro,17
+2025-05-06,12:00,Centro,17
+2025-05-06,13:00,Centro,18
+2025-05-06,14:00,Centro,20
+2025-05-06,15:00,Centro,17
+2025-05-06,16:00,Centro,15
+2025-05-06,17:00,Centro,103
+2025-05-06,18:00,Centro,109
+2025-05-06,19:00,Centro,99
+2025-05-06,20:00,Centro,20
+2025-05-06,06:00,Avenida Presidente Dutra,17
+2025-05-06,07:00,Avenida Presidente Dutra,93
+2025-05-06,08:00,Avenida Presidente Dutra,103
+2025-05-06,09:00,Avenida Presidente Dutra,108
+2025-05-06,10:00,Avenida Presidente Dutra,17
+2025-05-06,11:00,Avenida Presidente Dutra,19
+2025-05-06,12:00,Avenida Presidente Dutra,18
+2025-05-06,13:00,Avenida Presidente Dutra,19
+2025-05-06,14:00,Avenida Presidente Dutra,21
+2025-05-06,15:00,Avenida Presidente Dutra,19
+2025-05-06,16:00,Avenida Presidente Dutra,19
+2025-05-06,17:00,Avenida Presidente Dutra,95
+2025-05-06,18:00,Avenida Presidente Dutra,104
+2025-05-06,19:00,Avenida Presidente Dutra,115
+2025-05-06,20:00,Avenida Presidente Dutra,17
+2025-05-07,06:00,Avenida João da Escóssia,20
+2025-05-07,07:00,Avenida João da Escóssia,85
+2025-05-07,08:00,Avenida João da Escóssia,107
+2025-05-07,09:00,Avenida João da Escóssia,90
+2025-05-07,10:00,Avenida João da Escóssia,20
+2025-05-07,11:00,Avenida João da Escóssia,22
+2025-05-07,12:00,Avenida João da Escóssia,21
+2025-05-07,13:00,Avenida João da Escóssia,20
+2025-05-07,14:00,Avenida João da Escóssia,18
+2025-05-07,15:00,Avenida João da Escóssia,18
+2025-05-07,16:00,Avenida João da Escóssia,16
+2025-05-07,17:00,Avenida João da Escóssia,88
+2025-05-07,18:00,Avenida João da Escóssia,81
+2025-05-07,19:00,Avenida João da Escóssia,105
+2025-05-07,20:00,Avenida João da Escóssia,19
+2025-05-07,06:00,BR-304,19
+2025-05-07,07:00,BR-304,100
+2025-05-07,08:00,BR-304,94
+2025-05-07,09:00,BR-304,106
+2025-05-07,10:00,BR-304,20
+2025-05-07,11:00,BR-304,19
+2025-05-07,12:00,BR-304,20
+2025-05-07,13:00,BR-304,16
+2025-05-07,14:00,BR-304,22
+2025-05-07,15:00,BR-304,21
+2025-05-07,16:00,BR-304,22
+2025-05-07,17:00,BR-304,94
+2025-05-07,18:00,BR-304,99
+2025-05-07,19:00,BR-304,101
+2025-05-07,20:00,BR-304,22
+2025-05-07,06:00,Centro,17
+2025-05-07,07:00,Centro,105
+2025-05-07,08:00,Centro,115
+2025-05-07,09:00,Centro,109
+2025-05-07,10:00,Centro,20
+2025-05-07,11:00,Centro,20
+2025-05-07,12:00,Centro,22
+2025-05-07,13:00,Centro,22
+2025-05-07,14:00,Centro,21
+2025-05-07,15:00,Centro,19
+2025-05-07,16:00,Centro,19
+2025-05-07,17:00,Centro,96
+2025-05-07,18:00,Centro,90
+2025-05-07,19:00,Centro,95
+2025-05-07,20:00,Centro,18
+2025-05-07,06:00,Avenida Presidente Dutra,17
+2025-05-07,07:00,Avenida Presidente Dutra,112
+2025-05-07,08:00,Avenida Presidente Dutra,76
+2025-05-07,09:00,Avenida Presidente Dutra,90
+2025-05-07,10:00,Avenida Presidente Dutra,21
+2025-05-07,11:00,Avenida Presidente Dutra,19
+2025-05-07,12:00,Avenida Presidente Dutra,20
+2025-05-07,13:00,Avenida Presidente Dutra,20
+2025-05-07,14:00,Avenida Presidente Dutra,17
+2025-05-07,15:00,Avenida Presidente Dutra,16
+2025-05-07,16:00,Avenida Presidente Dutra,19
+2025-05-07,17:00,Avenida Presidente Dutra,74
+2025-05-07,18:00,Avenida Presidente Dutra,93
+2025-05-07,19:00,Avenida Presidente Dutra,99
+2025-05-07,20:00,Avenida Presidente Dutra,21
