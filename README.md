@@ -45,8 +45,16 @@ python -m venv venv
 ```
 
 4. Ative o ambiente virtual:
+
+-No Windows
+
 ```bash
 .\venv\Scripts\Activate.ps1
+```
+
+-No Linux/MacOS
+```bash
+source venv/bin/activate
 ```
 
 5. Instale as dependências:
