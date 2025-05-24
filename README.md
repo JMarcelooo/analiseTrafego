@@ -33,19 +33,23 @@ A solução inclui:
 git clone https://github.com/seu-usuario/projeto-trafego.git
 ```
 
+2. Vá para o diretório do projeto
+```bash
+cd analiseTrafego
+```
 
-2. Crie um ambiente virtual (recomendado):
+3. Crie um ambiente virtual (recomendado):
     
 ```bash
 python -m venv venv
 ```
 
-3. Ative o ambiente virtual:
+4. Ative o ambiente virtual:
 ```bash
 .\venv\Scripts\Activate.ps1
 ```
 
-4. Instale as dependências:
+5. Instale as dependências:
 ```bash
 pip install -r requirements.txt
 ```
