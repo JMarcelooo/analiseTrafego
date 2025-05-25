@@ -49,7 +49,7 @@ def plot_previsao_7dias(modelo, ponto, horario, df):
         return t.hour + t.minute / 60
 
     hoje = datetime.today().date()
-    datas = [hoje + timedelta(days=i) for i in range(7)]
+    datas = [hoje + timedelta(days=i) for i in range(7)]  # Próximos 7 dias
 
     previsoes = []
     labels = []
@@ -61,11 +61,13 @@ def plot_previsao_7dias(modelo, ponto, horario, df):
         dia_semana_en = data.strftime('%A')
         dia_semana_pt = dias_pt.get(dia_semana_en, dia_semana_en)
 
-        labels.append(data.strftime('%a %d/%m'))
+        labels.append(data.strftime('%a %d/%m'))  # Labels no formato desejado
 
+        # Criar os dados para a previsão
         data_pred = {col: 0 for col in X_cols}
         data_pred['Hora_num'] = hora_num
 
+        # Definir variáveis categóricas com 1 (um) se necessário
         dia_col = f'Dia_da_Semana_{dia_semana_pt}'
         ponto_col = f'Ponto de Contagem_{ponto}'
 
@@ -74,18 +76,22 @@ def plot_previsao_7dias(modelo, ponto, horario, df):
         if ponto_col in data_pred:
             data_pred[ponto_col] = 1
 
+        # Criar DataFrame de entrada para o modelo
         X_pred = pd.DataFrame([data_pred])
-        pred = modelo.predict(X_pred)[0]
-        previsoes.append(max(0, pred))
+        pred = modelo.predict(X_pred)[0]  # Previsão do modelo
+        previsoes.append(max(0, pred))  # Garantir que o valor da previsão não seja negativo
 
-    plt.figure(figsize=(10,5))
-    plt.plot(labels, previsoes, marker='o')
-    plt.title(f'Previsão de veículos em {ponto} às {horario.strftime("%H:%M")} para os próximos 7 dias')
-    plt.xlabel('Data')
-    plt.ylabel('Número previsto de veículos')
-    plt.grid(True)
-    plt.tight_layout()
-    plt.show()
+    # Criar a figura e eixos explicitamente
+    fig, ax = plt.subplots(figsize=(10, 5))
+    ax.plot(labels, previsoes, marker='o', color='b', label=f'{ponto} - {horario.strftime("%H:%M")}')
+    ax.set_title(f'Previsão de veículos em {ponto} às {horario.strftime("%H:%M")} para os próximos 7 dias')
+    ax.set_xlabel('Data')
+    ax.set_ylabel('Número previsto de veículos')
+    ax.grid(True)
+    ax.legend()
+
+    # Retornar a figura
+    return fig
 
 if __name__ == "__main__":
     data_path = "../data/dados_trafego_limpos.csv"
