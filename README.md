@@ -52,7 +52,7 @@ python -m venv venv
 .\venv\Scripts\Activate.ps1
 ```
 
-  - No Linux/MacOS
+  -  No Linux/MacOS
 ```bash
 source venv/bin/activate
 ```
